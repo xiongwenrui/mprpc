@@ -1,0 +1,12 @@
+/home/xiaoxiong/mprpc/CMakeFiles/rebuild_cache.dir
+/home/xiaoxiong/mprpc/CMakeFiles/edit_cache.dir
+/home/xiaoxiong/mprpc/src/CMakeFiles/rebuild_cache.dir
+/home/xiaoxiong/mprpc/src/CMakeFiles/edit_cache.dir
+/home/xiaoxiong/mprpc/src/CMakeFiles/mprpc.dir
+/home/xiaoxiong/mprpc/example/CMakeFiles/rebuild_cache.dir
+/home/xiaoxiong/mprpc/example/CMakeFiles/edit_cache.dir
+/home/xiaoxiong/mprpc/example/callee/CMakeFiles/rebuild_cache.dir
+/home/xiaoxiong/mprpc/example/callee/CMakeFiles/edit_cache.dir
+/home/xiaoxiong/mprpc/example/callee/CMakeFiles/provider.dir
+/home/xiaoxiong/mprpc/example/caller/CMakeFiles/rebuild_cache.dir
+/home/xiaoxiong/mprpc/example/caller/CMakeFiles/edit_cache.dir
